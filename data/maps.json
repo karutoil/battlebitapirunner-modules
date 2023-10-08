@@ -1676,5 +1676,58 @@
 				]
 			}
 		]
-	}
+	},
+		{
+		"Available": true,
+		"Description": "This map is primarily focused on infantry based gameplay rather than vehicular and infantry mixed, and it's smaller compared to other maps.",
+		"ImageUrls": {
+			"DiscordIcon": "https://githubraw.com/Bluscream/battlebitapirunner-modules/master/data/images/maps/valley/DiscordIcon.png",
+			"EndGame": "https://githubraw.com/Bluscream/battlebitapirunner-modules/master/data/images/maps/valley/EndGame.png",
+			"LoadingScreen": "https://githubraw.com/Bluscream/battlebitapirunner-modules/master/data/images/maps/valley/LoadingScreen.png",
+			"MainMap": "https://githubraw.com/Bluscream/battlebitapirunner-modules/master/data/images/maps/valley/MainMap.png",
+			"ServerList": "https://githubraw.com/Bluscream/battlebitapirunner-modules/master/data/images/maps/valley/ServerList.png"
+		},
+		"Name": "Koiak",
+		"SupportedGamemodes": [
+			{
+				"GameMode": "RUSH",
+				"SupportedMapSizes": [
+					16,
+					32
+				]
+			},
+			{
+				"GameMode": "CONQ",
+				"SupportedMapSizes": [
+					32,
+					64,
+					90
+				]
+			},
+			{
+				"GameMode": "INFCONQ",
+				"SupportedMapSizes": [
+					32,
+					64,
+					90
+				]
+			},
+			{
+				"GameMode": "DOMI",
+				"SupportedMapSizes": [
+					32,
+					64,
+					90
+				]
+			},
+			{
+				"GameMode": "CTF",
+				"SupportedMapSizes": [
+					32,
+					64,
+					90
+				]
+			}
+		]
+	},
 ]
